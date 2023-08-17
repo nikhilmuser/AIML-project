@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikhil M</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Online Traffic Offence Management System**
-
-- 🌱 I’m currently learning **.net**
+- 🔭 I’m currently working on **Sentiment Analysis ML project**
 
 - 📫 How to reach me **nikhilmuser@gmail.com**
-
-- ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilm" height="30" width="40" /></a>
 <a href="https://fb.com/ñiķhiĺ m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ñiķhiĺ m" height="30" width="40" /></a>
+<a href="https://instagram.com/__nikhil_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nikhil_m_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
