@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil M</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Sentiment Analysis ML project**
+
+- 🔭 This Project is  **AI-based Food Recognistion for the visually Impaired**
 
 - 📫 How to reach me **nikhilmuser@gmail.com**
 
